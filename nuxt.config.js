@@ -42,6 +42,10 @@ export default {
   */
   modules: [
   ],
+
+  axios: {
+    baseURL: 'https://nuxt-blog-service-4ce29.firebaseio.com'
+  },
   /*
   ** Build configuration
   */
